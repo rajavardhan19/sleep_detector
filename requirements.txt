@@ -1,0 +1,6 @@
+Flask==2.1.1
+opencv-python
+mediapipe
+numpy
+pillow
+gunicorn==20.1.0
